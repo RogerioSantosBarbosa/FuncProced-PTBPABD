@@ -1,6 +1,6 @@
 -- Questão 01. Crie um procedimento chamado student_grade_points segundo os critérios mencionados.
 
-CREATE PROCEDURE student_grade_points 
+CREATE PROCEDURE student_grade_points  
 
 
 
